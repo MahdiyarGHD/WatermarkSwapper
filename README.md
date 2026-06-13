@@ -1,6 +1,6 @@
 # WatermarkReplacer
 
-A high-performance, low-allocation .NET utility designed to automatically detect and replace specific watermarks across millions of images. Utilizing native OpenCV bindings via OpenCvSharp4, this tool processes images at bare-metal speeds with a minimal memory footprint.
+A high-performance, low-allocation .NET utility designed to automatically detect and replace specific simple watermarks across millions of images. Utilizing native OpenCV bindings via OpenCvSharp4, this tool processes images at bare-metal speeds with a minimal memory footprint.
 
 ## Features
 
